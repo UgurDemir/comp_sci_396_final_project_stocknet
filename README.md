@@ -8,7 +8,7 @@ By Ugur Demir and Kamalakkannan Ravi
 
 *Submitted to Comp_Sci_396, Winter '21*
 
-**Please click here for the [Video Presentation](https://youtube.com)**
+**Please click here for the [Video Presentation](https://youtu.be/hAhHGq7Db6c)**
 
 ## Overview
 
